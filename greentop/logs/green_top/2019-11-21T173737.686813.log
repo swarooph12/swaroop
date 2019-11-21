@@ -1,0 +1,521 @@
+2019-11-21 17:37:39 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/robots.txt> (referer: None)
+2019-11-21 17:37:42 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1> (referer: None)
+2019-11-21 17:37:46 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2> (referer: None)
+2019-11-21 17:37:46 [scrapy] DEBUG: Filtered duplicate request: <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1&sort=bestselling> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2019-11-21 17:37:50 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-ken-onion-edition-knife-tool-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:37:50 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-ken-onion-edition-knife-tool-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Work Sharp Ken Onion Edition Knife &amp; Tool '
+                'Sharpener</b> will sharpen every knife you own, quickly, and '
+                'easily. Work Sharp teamed up with renowned knife maker Ken '
+                'Onion to deliver the ultimate sharpening solution for your '
+                'home or workshop. Work Sharp teamed up with renowned knife '
+                'maker Ken Onion to deliver the ultimate sharpening solution '
+                'for your home or workshop.<br><br>The Ken Onion Edition Knife '
+                '&amp; Tool Sharpener offers:<ul><li>An adjustable sharpening '
+                'guide to produce precise edge bevels from 15° to '
+                '30°</li><li>Premium flexible abrasive belts to deliver a '
+                'strong, long lasting razor-sharp edge</li><li>A variable '
+                'speed motor to handle every sharpening task, from grinding to '
+                'honing</li></ul><b>Features:</b><ul><li><b>Model:</b> '
+                'WSKTS-SO</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li>An adjustable sharpening guide to produce precise edge '
+             'bevels from 15° to 30°</li><li>Premium flexible abrasive belts '
+             'to deliver a strong, long lasting razor-sharp edge</li><li>A '
+             'variable speed motor to handle every sharpening task, from '
+             'grinding to honing</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/336308/73722/api1xesvr__48612.1561049307.jpg?c=2&imbypass=on'],
+ 'Price': '$149.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '328709',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Assorted Belt Kit - Ken Onion Edition',
+ 'Rating': 'NA'}
+2019-11-21 17:37:54 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1&sort=bestselling> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:37:58 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-guided-sharpening-system/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:37:58 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-guided-sharpening-system/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Work Sharp Guided Sharpening System</b> is a '
+                'complete sharpening solution for every knife you own. It '
+                'features the innovative Pivot-Response System which allows '
+                'the abrasive to follow the curve of the blade, making manual '
+                'sharpening faster, easier and more precise than ever. '
+                'Sharpens curved blades, straight blades, serrations, tools, '
+                'hooks, and fine points.<br><br>The Guided Sharpening System '
+                'offers:<ul><li>1.25" x 6" coarse (320 grit) and fine (600 '
+                'grit) Diamond Sharpening Plates</li><li>17° and 20° Angle '
+                'Guides</li><li>Coarse and Fine Ceramic Hone with built-in '
+                'Angle Guides</li><li>3 sizes of ceramic rods to sharpen '
+                'serrations</li><li>Pivot-Response '
+                'technology</li><li>Removable diamond plate holder for '
+                'sharpening '
+                'tools</li></ul><b>Features:</b><ul><li><b>Model:</b> '
+                'WSGSS</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li>1.25" x 6" coarse (320 grit) and fine (600 grit) Diamond '
+             'Sharpening Plates</li><li>17° and 20° Angle '
+             'Guides</li><li>Coarse and Fine Ceramic Hone with built-in Angle '
+             'Guides</li><li>3 sizes of ceramic rods to sharpen '
+             'serrations</li><li>Pivot-Response technology</li><li>Removable '
+             'diamond plate holder for sharpening tools</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/335915/73563/apizjjzvn__93519.1561049182.jpg?c=2&imbypass=on'],
+ 'Price': '$59.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335921',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp&reg; Guided Field Sharpener 221',
+ 'Rating': 'NA'}
+2019-11-21 17:38:02 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-combo-knife-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:02 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-combo-knife-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Combo Knife Sharpener</b> was created for '
+                'those who want a fast, easy-to-use machine that sharpens '
+                'every type of knife you own. The Combo Knife Sharpener '
+                "combines Work Sharp's power sharpening technology (flexible "
+                'abrasive belts) with our manual sharpening technology '
+                '(angle-guided ceramic honing). This combination of '
+                'technologies and features create a fast, easy, and very '
+                'effective sharpening system for every knife '
+                'owner.<br><br>Flexible Belt Technology creates a superior '
+                'convex cutting edge on your knife. This type of edge is the '
+                'choice of professionals and knife makers for its ability to '
+                'cut better and stay sharp longer than flat ground edges. The '
+                'Combo Sharpener uses a 0.5" x 10" premium 3M abrasive belt - '
+                'engineered for cool sharpening and long life. The abrasive is '
+                'designed and intended for metal grinding applications and '
+                'will sharpen any type of blade steel without overheating your '
+                'blade. The sharpener uses precise 25 degree angle guides for '
+                'both sharpening and honing. The innovative Tapered Ceramic '
+                'Rod will hone every knife you own to a razor-sharp edge, and '
+                'will sharpen most any size serration. You can now '
+                'successfully sharpen all of your serrated knives with a '
+                'single, easy to use '
+                'tool.<br><br><b>Features</b><ul><li><b>Model:</b> '
+                'WSCMB</li><li><b>Motor:</b> 120V Single '
+                'Speed</li><li><b>Power Switch:</b> On/Off</li><li><b>Duty '
+                'Cycle:</b> Light Duty</li><li><b>Abrasives Included:</b> (2) '
+                'P120 belts by 3M, Fine grit tapered ceramic '
+                'rod</li><li><b>Abrasive Size:</b> 0.5" x '
+                '10"</li><li><b>Sharpening Guides:</b> Fixed 25 degree '
+                'sharpening and honing</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model:</b> WSCMB</li><li><b>Motor:</b> 120V Single '
+             'Speed</li><li><b>Power Switch:</b> On/Off</li><li><b>Duty '
+             'Cycle:</b> Light Duty</li><li><b>Abrasives Included:</b> (2) '
+             'P120 belts by 3M, Fine grit tapered ceramic '
+             'rod</li><li><b>Abrasive Size:</b> 0.5" x '
+             '10"</li><li><b>Sharpening Guides:</b> Fixed 25 degree sharpening '
+             'and honing</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/335938/73586/api8edcrv__72663.1561049197.jpg?c=2&imbypass=on'],
+ 'Price': '$59.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335921',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp&reg; Guided Field Sharpener 221',
+ 'Rating': 'NA'}
+2019-11-21 17:38:06 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-assorted-belt-kit-ken-onion-edition/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:06 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-assorted-belt-kit-ken-onion-edition/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Work Sharp Assorted Belt Kit - Ken Onion '
+                'Edition</b> are for use with the Ken Onion Sharpening '
+                'Cassette (WSKTS-KO). Includes 1 of each belt; P120 Extra '
+                'Course Grit (3/4" x 12"), X65 Coarse Grit (P220 equivalent, '
+                '3/4" x 12"), X22 Medium Grit (P1000 equivalent, 3/4" x 12"), '
+                'X4 Fine Grit (P3000 equivalent, 3/4" x 12"), and 6000 Extra '
+                'Fine Grit (1/2" x '
+                '12").<br><br><b>Features:</b><ul><li><b>Model:</b> '
+                'WSSAKO81113</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model:</b> WSSAKO81113</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/328709/84655/apily8xa8__26447.1561064250.jpg?c=2&imbypass=on'],
+ 'Price': '$17.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335938',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Combo Knife Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:11 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/smith-rsquo-s-edge-pro-pull-thru-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:11 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/smith-rsquo-s-edge-pro-pull-thru-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                "        The <b>Smith's Edge Pro Pull-Thru Knife Sharpener</b> "
+                'is Designed for the Sports Enthusiast who demands the highest '
+                'quality sharpening tools and abrasives.<br><br>This sharpener '
+                'offers two stages of sharpening for all types of knives, '
+                'everything from everyday pocket knives to the finest customer '
+                'sport knives.<br><br>The precision ground carbides remove '
+                'metal in a smoother, more consistent fashion when setting the '
+                'edge on very dull straight edge blades, and the specially '
+                'shaped ceramic stones can be used to lightly hone either '
+                'STRAIGHT or SERRATED edge blades.<br><br>It has an '
+                'ergonomically designed soft grip handle and non-slip rubber '
+                'feet for comfort and '
+                'safety.<b>Features:</b><ul><li><b>Model</b>: '
+                '50090</li><li>soft grip handle</li><li>2 stage sharpening, '
+                'coarse &amp; fine</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model</b>: 50090</li><li>soft grip handle</li><li>2 '
+             'stage sharpening, coarse &amp; fine</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/382899/125847/api8wgxek__84680.1562794311.jpg?c=2&imbypass=on'],
+ 'Price': '$14.99',
+ 'Product_Brand': "Smith's",
+ 'Product_ID': '383002',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Smith&rsquo;s Diamond Retractable Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:14 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/smith-rsquo-s-edge-pro-compact-electric-manual-knife-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:14 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/smith-rsquo-s-edge-pro-compact-electric-manual-knife-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                "        The sharpening wheels on your <b>Smith's Edge Pro "
+                'Electric/Manual Knife Sharpener</b> are made from bonded '
+                'synthetics. The synthetics used are selected for their '
+                'ability to guarantee longer wheel life, uniform cutting, and '
+                'minimum heat build up, so that de-tempering of your blade '
+                "does not occur.<br><br>Smith's wheels are manufactured "
+                'according to strict tolerances in order to ensure the same '
+                'high quality on each and every wheel made.<br><br>The crossed '
+                'ceramic rods put the final finished edge on your blade. '
+                'Crossed ceramic rods create a pre-set sharpening angle that '
+                'lightly hones both sides of your blade at the same time; '
+                'thus, putting a polished, razor-sharp edge on your knife. '
+                'Also, use the crossed ceramic rods for a quick touch-up of '
+                'already sharp knives. Just a few, quick pulls through the '
+                "sharpening slot is all it takes. Smith's recommends always "
+                'using the ceramic rods for final edge honing after you '
+                'sharpen using the synthetic wheels. Again, just a few pulls '
+                'through the sharpening slot is all it '
+                'takes.<b>Features:</b><ul><li><b>Model:</b> '
+                '50005</li><li>Pre-set Sharpening Angles</li><li>Sharpens Both '
+                'Sides of the Blade</li><li>Ceramic Rods for Final Edge '
+                'Honing</li><li>Soft-Grip Rubber Handle</li><li>Non-Slip '
+                'Rubber Feet</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model:</b> 50005</li><li>Pre-set Sharpening '
+             'Angles</li><li>Sharpens Both Sides of the Blade</li><li>Ceramic '
+             'Rods for Final Edge Honing</li><li>Soft-Grip Rubber '
+             'Handle</li><li>Non-Slip Rubber Feet</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/382921/125900/apiyzauy6__69740.1562794376.jpg?c=2&imbypass=on'],
+ 'Price': '$29.99',
+ 'Product_Brand': "Smith's",
+ 'Product_ID': '383002',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Smith&rsquo;s Diamond Retractable Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:18 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/smith-rsquo-s-4-quot-diamond-combination-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:18 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/smith-rsquo-s-4-quot-diamond-combination-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Smith\'s 4" Diamond Combination Bench '
+                'Stone</b> features coarse and fine grit sharpening surfaces. '
+                'These surfaces contain multiple layers of micron-sized '
+                'monocrystalline diamonds and a unique sharpening surface with '
+                'an overlapping oval hole design. This innovation speeds '
+                'sharpening by collecting and holding the metal filings which '
+                'ordinarily build up during the sharpening '
+                'process.<br><br>Each stone has a "micro-tool sharpening pad" '
+                'and a sharpening groove for fish hooks or pointed '
+                'tools.<br><br>The soft grip rubber handle is designed to make '
+                'sharpening safe and easy, and when you are finished '
+                'sharpening, you can store your stones in the handle for '
+                'safekeeping.<b>Features:</b><ul><li><b>Model</b>: '
+                'DCS4</li><li><b>Size:</b> 4" x 1"</li><li><b>Grit:</b> Coarse '
+                '325 / Fine 750</li><li>Thumb guard for safety</li><li>Grooved '
+                'for fish hooks and pointed tools</li><li>Soft grip rubber '
+                'handle for comfort</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model</b>: DCS4</li><li><b>Size:</b> 4" x '
+             '1"</li><li><b>Grit:</b> Coarse 325 / Fine 750</li><li>Thumb '
+             'guard for safety</li><li>Grooved for fish hooks and pointed '
+             'tools</li><li>Soft grip rubber handle for comfort</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/383005/126045/apigzvl1s__37029.1562794592.jpg?c=2&imbypass=on'],
+ 'Price': '$28.99',
+ 'Product_Brand': "Smith's",
+ 'Product_ID': '383002',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Smith&rsquo;s Diamond Retractable Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:22 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/lansky-mini-dog-bone-knife-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:22 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/lansky-mini-dog-bone-knife-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Lansky Mini Dog Bone Knife Sharpener</b> '
+                'alumina ceramic rod is a super compact pocket sharpener, and '
+                'perfect for quick sharpening of knives.  A convenient key '
+                'chain is attached to colorful, patented finger '
+                'guards.<br><br>Model:  LCDOG\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/329897/111507/apipo4ogw__37393.1562015776.jpg?c=2&imbypass=on'],
+ 'Price': '$3.99',
+ 'Product_Brand': 'Lansky',
+ 'Product_ID': '334093',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Lansky Cold Steel Knife Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:26 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/lansky-medium-serrated-hone/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:26 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/lansky-medium-serrated-hone/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Lansky Medium Serrated Hone</b> is the '
+                'ultimate serrations accessory for your Lansky Sharpening '
+                'System.  This <b>600 grit Ceramic Serrated Hone</b> allows '
+                'you to repair and sharpen damaged '
+                'serrations.<br><br><b>Features</b><ul><li>Medium Grit (600) '
+                'Ceramic Hone</li><li>Brass threaded insert for stainless '
+                'steel thumb screw</li><li>Ergonomic plastic '
+                'housing</li><li>Made in the USA!</li><li>Model:  '
+                'LSMRT</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li>Medium Grit (600) Ceramic Hone</li><li>Brass threaded '
+             'insert for stainless steel thumb screw</li><li>Ergonomic plastic '
+             'housing</li><li>Made in the USA!</li><li>Model:  LSMRT</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/334155/111356/apih4wasc__65432.1562015393.jpg?c=2&imbypass=on'],
+ 'Price': '$8.99',
+ 'Product_Brand': "Smith's",
+ 'Product_ID': '383005',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Smith&rsquo;s 4&quot; Diamond Combination Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:28 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/lansky-cold-steel-knife-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:28 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/lansky-cold-steel-knife-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Lansky Cold Steel Knife Sharpener</b> is a '
+                'handy pocket-size sharpener specially designed for the '
+                'proprietary serrations used on Cold Steel brand folding and '
+                'fixed blade knives.  The special grooves exactly match the '
+                'mini serrations.  Safety thumb rests and keychain keep the '
+                'sharpener always ready to serve at home or in the '
+                'field.<br><br>Model:  LTRCS\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/334093/111639/apiibj4eh__89037.1562016040.jpg?c=2&imbypass=on'],
+ 'Price': '$5.99',
+ 'Product_Brand': 'Lansky',
+ 'Product_ID': '329897',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Lansky Mini Dog Bone Knife Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:31 [scrapy] DEBUG: Retrying <GET https://www.greentophuntfish.com/smith-rsquo-s-diamond-retractable-sharpener/> (failed 1 times): 500 Internal Server Error
+2019-11-21 17:38:35 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-reg-knife-tool-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:35 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-reg-knife-tool-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The Work Sharp Knife &amp; Tool Sharpener is the '
+                'first knife sharpener designed to sharpen every knife you '
+                'own. Using flexible abrasive belts, the sharpener is able to '
+                'sharpen not just straight bladed knives, but also curved '
+                'knives, tanto blades, filet knives, serrated knives, gut '
+                'hooks and virtually any other shape of knife blade. The Knife '
+                '&amp; Tool Sharpener uses precision angle sharpening guides '
+                'to ensure that you get the proper angle every time. Two '
+                'guides are included: a 50° guide for hunting and outdoor '
+                'knives (25° per bevel) and a 40° guide for thinner blades and '
+                'kitchen knives (20° per bevel). Professional knife makers use '
+                'flexible belts to put a razor sharp edge on their blades, and '
+                'now you can have the same technology at home to use any time '
+                'your knives get dull. You may already have other sharpening '
+                'methods, but never before has a knife sharpener been able to '
+                'quickly and easily sharpen this broad range of knives to such '
+                'extremely sharp results.<br><br>The Work Sharp Knife &amp; '
+                'Tool Sharpener is also able to sharpen other common tools '
+                'including scissors, axes and hatchets, mower blades, garden '
+                'shears, shovels, and most any tool with a blade. The '
+                'versatility of the Knife &amp; Tool Sharpener makes it an '
+                'invaluable tool for keeping all your blades in razor sharp '
+                'condition and ready whenever you need '
+                'them.<br><br><b>Features</b><br><br><ul><li><b>Model:  </b>  '
+                'DARWSKTS</li><li><b>Motor:  </b> 120VAC/0.7 Amp (fixed '
+                'speed)</li><li><b>Power Switch:  '
+                '</b>On/Off/Momentary</li><li><b>Duty Cycle:  </b>20 '
+                'Minutes/Hour</li><li><b>Abrasives Included:  </b>  P80, P220, '
+                '6000</li><li><b>Abrasive Size:  </b>  1/2" x '
+                '12"</li><li><b>Sharpening Guides:  </b>  Fixed, 20° and '
+                '25°</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model:  </b>  DARWSKTS</li><li><b>Motor:  </b> '
+             '120VAC/0.7 Amp (fixed speed)</li><li><b>Power Switch:  '
+             '</b>On/Off/Momentary</li><li><b>Duty Cycle:  </b>20 '
+             'Minutes/Hour</li><li><b>Abrasives Included:  </b>  P80, P220, '
+             '6000</li><li><b>Abrasive Size:  </b>  1/2" x '
+             '12"</li><li><b>Sharpening Guides:  </b>  Fixed, 20° and '
+             '25°</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/323653/79536/apisvkmdt__63271.1561060385.jpg?c=2&imbypass=on'],
+ 'Price': '$69.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335921',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp&reg; Guided Field Sharpener 221',
+ 'Rating': 'NA'}
+2019-11-21 17:38:38 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-p220-medium-grit-belts-6-pack/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2)
+2019-11-21 17:38:39 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-p220-medium-grit-belts-6-pack/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        Contains 6 P220 abrasive belts for the WSKTS. '
+                'Intended for light shaping and sharpening applications.  '
+                'Produces a toothy cutting edge for long life utility '
+                'applications.\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/442789/293603/DARWSSA0002704N__95464.1568150164.jpg?c=2&imbypass=on'],
+ 'Price': '$9.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '328709',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Assorted Belt Kit - Ken Onion Edition',
+ 'Rating': 'NA'}
+2019-11-21 17:38:43 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-reg-wskts-p80-aluminum-oxide-6-pack/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2)
+2019-11-21 17:38:43 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-reg-wskts-p80-aluminum-oxide-6-pack/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        Contains 6 P80 abrasive belts for the WSKTS. Intended '
+                'for coarse shaping and tool sharpening applications.  Use '
+                'caution to avoid heat on thin blades near the tip.  Use to '
+                'change bevel angle, shape blade or repair chips.  Great for '
+                'light duty deburring and rust/paint removal.\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/330647/86009/apijyqkr5__44037.1561065266.jpg?c=2&imbypass=on'],
+ 'Price': '$9.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335938',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Combo Knife Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:45 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-reg-wskts-assorted-belt-kit/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2)
+2019-11-21 17:38:45 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-reg-wskts-assorted-belt-kit/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The Work Sharp WSKTS Knife and Tool Sharpener '
+                'assorted belt kit includes:(2) P80 Coarse Grit Belts (2) P220 '
+                'Medium Grit Belts (2) 6000 Fine Grit Belts. These engineered '
+                'abrasives from Norton and Micro Mesh are 1/2 inch x 12 inch '
+                'and do not fit other Work Sharp products.\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/322739/78226/apibup1ia__56153.1561059497.jpg?c=2&imbypass=on'],
+ 'Price': '$9.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '328709',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Assorted Belt Kit - Ken Onion Edition',
+ 'Rating': 'NA'}
+2019-11-21 17:38:49 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-reg-wskts-6000-silicon-carbide-6-pack/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2)
+2019-11-21 17:38:50 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-reg-wskts-6000-silicon-carbide-6-pack/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        Contains 6 6000 abrasive belts for the WSKTS. '
+                'Intended for honing applications.\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/329105/84980/apiajrrcd__89019.1561064484.jpg?c=2&imbypass=on'],
+ 'Price': '$9.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335938',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Combo Knife Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:53 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-reg-guided-field-sharpener-221/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2)
+2019-11-21 17:38:54 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-reg-guided-field-sharpener-221/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The Work Sharp Guided Field Sharpener 2.2.1. is the '
+                'complete knife sharpener for field, home or shop use. It is '
+                'the first Angle Guided, 5 stage sharpening solution designed '
+                'for sportsmen who need a complete, robust and compact field '
+                'sharpening solution.<br><br>2) Diamond Plates, (2) Ceramic '
+                'Rods, (1) Leather Strop and Sharpening Guides provide a fast, '
+                'easy and consistent sharpening solution for knives and camp '
+                'tools. The 20° and 25° sharpening guides create consistent '
+                'blade edge angles with speed, ease and repeatability. The '
+                'sharpening guides are purpose built for your hunting knives, '
+                'pocket knives and filet knives. Strong rare earth magnets '
+                'secure the easily interchangeable diamond plates and also '
+                'provide coverage for the Broadhead Wrench and small storage '
+                'compartment. Compact design and Lanyard Hole make it easy to '
+                'pack carry on your next outdoor adventure so you can sharpen '
+                'anytime, anywhere with speed and ease. Also sharpens serrated '
+                'knives, fish hooks, broadheads and many common camp tools.  '
+                'Work Sharp Guided Field Sharpener 2.2.1.<br><br>Includes: (1) '
+                'Coarse Diamond Plate, (1) Fine Diamond Plate, (1) Large '
+                'Ceramic Rod with 3 Positions (coarse, fine and fish hook '
+                'grooves), (1) Small Ceramic Rod, (1) Leather Strop '
+                "conditioned with Micro-Abrasive, Broadhead Wrench and User's "
+                'Guide. This tool is assembled and quality checked in Ashland, '
+                'Oregon and has a Limited Lifetime Warranty. Includes a '
+                "detailed User's Guide inside the tool under the diamond plate "
+                'for convenient storage.\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': 'NA',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/335921/73575/apiqpjnff__32709.1561049190.jpg?c=2&imbypass=on'],
+ 'Price': '$29.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335915',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Guided Sharpening System',
+ 'Rating': 'NA'}
+2019-11-21 17:38:58 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/smith-rsquo-s-diamond-retractable-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 17:38:58 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/smith-rsquo-s-diamond-retractable-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                "        The <b>Smith's Diamond Retractable Sharpener</b> "
+                'features an unbreakable, diamond coated steel rod, which is '
+                'specially designed to sharpen all types of knives, '
+                '<b>including serrated</b>.<br><br>Multiple layers of medium '
+                'grit, monocrystallin diamonds makes sharpening quick and '
+                'easy, while still giving you that razor sharp edge on your '
+                'knives, tools, or hooks.<br><br>The rod is reversible and can '
+                'be adjusted to variable lengths. It has a sharpening groove '
+                'for hooks and a shirt pocket slip for easy '
+                'storage.<br><br>Light, compact, and '
+                'durable.<b>Features:</b><ul><li><b>Model</b>: '
+                'DRET</li><li><b>Size:</b> .375" x 2.875"</li><li><b>Grit:</b> '
+                'Medium Diamond 400</li><li>Aluminum Housing</li><li>Pocket '
+                'Clip</li><li>Reversible rod stores in handle</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model</b>: DRET</li><li><b>Size:</b> .375" x '
+             '2.875"</li><li><b>Grit:</b> Medium Diamond 400</li><li>Aluminum '
+             'Housing</li><li>Pocket Clip</li><li>Reversible rod stores in '
+             'handle</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/383002/126042/api9rwu1k__19708.1562794589.jpg?c=2&imbypass=on'],
+ 'Price': '$8.99',
+ 'Product_Brand': "Smith's",
+ 'Product_ID': '383005',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Smith&rsquo;s 4&quot; Diamond Combination Sharpener',
+ 'Rating': 'NA'}
+2019-11-21 17:38:58 [scrapy] INFO: Closing spider (finished)
+2019-11-21 17:38:58 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 11785,
+ 'downloader/request_count': 22,
+ 'downloader/request_method_count/GET': 22,
+ 'downloader/response_bytes': 615006,
+ 'downloader/response_count': 22,
+ 'downloader/response_status_count/200': 21,
+ 'downloader/response_status_count/500': 1,
+ 'dupefilter/filtered': 14,
+ 'elapsed_time_seconds': 80.315537,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 11, 21, 12, 8, 58, 240766),
+ 'item_scraped_count': 17,
+ 'log_count/DEBUG': 40,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 2,
+ 'response_received_count': 21,
+ 'retry/count': 1,
+ 'retry/reason_count/500 Internal Server Error': 1,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 21,
+ 'scheduler/dequeued/memory': 21,
+ 'scheduler/enqueued': 21,
+ 'scheduler/enqueued/memory': 21,
+ 'start_time': datetime.datetime(2019, 11, 21, 12, 7, 37, 925229)}
+2019-11-21 17:38:58 [scrapy] INFO: Spider closed (finished)

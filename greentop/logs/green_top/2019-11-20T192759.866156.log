@@ -1,0 +1,102 @@
+2019-11-20 19:28:01 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/robots.txt> (referer: None)
+2019-11-20 19:28:02 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/home-decor-gifts/travel-bags-luggage/misc-bags/?page=1> (referer: None)
+2019-11-20 19:28:02 [scrapy] DEBUG: Filtered duplicate request: <GET https://www.greentophuntfish.com/home-decor-gifts/travel-bags-luggage/misc-bags/?page=1> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2019-11-20 19:28:03 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/yeti-sidekick-dry/> (referer: https://www.greentophuntfish.com/home-decor-gifts/travel-bags-luggage/misc-bags/?page=1)
+2019-11-20 19:28:03 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/yeti-sidekick-dry/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>YETI SideKick Dry</b> is designed to keep the '
+                'important things accessible, secure, and 100% dry. This '
+                'waterproof gear case is the worry-free way to carry your '
+                "keys, wallet, fishing license, and phone in the wild. It's "
+                'constructed with a powerfully magnetic HydroShield Closure '
+                'and RF-welded seams that repel any sign of wetness. It also '
+                "attaches to the Hopper family's HitchPoint Grid to safely "
+                'keep your gear within easy reach.<br><br>The SideKick Dry '
+                'offers:<ul><li>Dryhide Shell - similiar materials and '
+                'construction as high performance whitewater '
+                'rafts</li><li>Hydroshield Closure - uses powerful magnets to '
+                'create a 100% waterproof sheild</li><li>RF-Welded Seams - '
+                "means there's no way in for any rogue "
+                'wetness</li></ul><b>Features:</b><ul><li><b>Dimensions:</b> '
+                '11 3/4" x 7 1/8" x 3 1/4"</li><li><b>Empty Weight:</b> 12.8 '
+                'oz</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li>Dryhide Shell - similiar materials and construction as '
+             'high performance whitewater rafts</li><li>Hydroshield Closure - '
+             'uses powerful magnets to create a 100% waterproof '
+             "sheild</li><li>RF-Welded Seams - means there's no way in for any "
+             'rogue wetness</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/438764/283207/api78ijbg__75208.1567029672.jpg?c=2&imbypass=on'],
+ 'Price': '$49.99',
+ 'Product_Brand': 'YETI',
+ 'Product_ID': '331258',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'YETI Panga 75 Dry Duffel',
+ 'Rating': 'NA'}
+2019-11-20 19:28:04 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/yeti-daytrip-lunch-bag/> (referer: https://www.greentophuntfish.com/home-decor-gifts/travel-bags-luggage/misc-bags/?page=1)
+2019-11-20 19:28:04 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/yeti-daytrip-lunch-bag/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                "        Pack a lunch you'll actually look forward to with the "
+                '<b>YETI Daytrip Lunch Bag</b>. YETI upgraded a classic form '
+                'to give you a fresh-for-hours, fold-and-go, easy-to-clean '
+                'lunch bag that takes soggy sandwiches and lukewarm drinks off '
+                "the menu. Did we mention it's lined with hours-worth of "
+                'insulation power? Surprise.<br><br>The Daytrip Lunch Bag '
+                'offers:<ul><li>COLDCELL FLEX INSULATION - A lightweight, '
+                'closed-cell foam flexibly folds over while offering superior '
+                'temperature-holding power</li><li>FOOD SAFE - From fruit to '
+                "subs, it's all safe to store</li><li>THERMO SNAP CLOSURE - "
+                'Magnetic closure will keep your tacos hot or your cold cuts, '
+                'well, cold</li><li>FOLD-AND-GO PACKING - Once dining is done, '
+                'fold it up, hook it closed, and stow it '
+                'away</li><li>ADJUSTABLE GRID - Decide the size of your lunch '
+                'bag by sliding the closing hook into one of the '
+                'loops</li></ul><b>Features:</b><ul><li><b>Unfolded '
+                'Dimensions:</b> 5 3/4" x 13 1/2" x 8 3/4"</li><li><b>Folded '
+                'Dimensions:</b> 5 3/4" x 8 3/4" x 8 3/4"</li><li><b>Empty '
+                'Weight:</b> 1.1 lbs</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li>COLDCELL FLEX INSULATION - A lightweight, closed-cell '
+             'foam flexibly folds over while offering superior '
+             'temperature-holding power</li><li>FOOD SAFE - From fruit to '
+             "subs, it's all safe to store</li><li>THERMO SNAP CLOSURE - "
+             'Magnetic closure will keep your tacos hot or your cold cuts, '
+             'well, cold</li><li>FOLD-AND-GO PACKING - Once dining is done, '
+             'fold it up, hook it closed, and stow it away</li><li>ADJUSTABLE '
+             'GRID - Decide the size of your lunch bag by sliding the closing '
+             'hook into one of the loops</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/424845/247590/apilaw3uo__40471.1566579623.jpg?c=2&imbypass=on'],
+ 'Price': '$79.99',
+ 'Product_Brand': 'YETI',
+ 'Product_ID': '327450',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'YETI Tuna Window Decal',
+ 'Rating': 'NA'}
+2019-11-20 19:28:04 [scrapy] INFO: Closing spider (finished)
+2019-11-20 19:28:04 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1704,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 91482,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'dupefilter/filtered': 1,
+ 'elapsed_time_seconds': 4.192854,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 11, 20, 13, 58, 4, 317321),
+ 'item_scraped_count': 2,
+ 'log_count/DEBUG': 7,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 1,
+ 'response_received_count': 4,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2019, 11, 20, 13, 58, 0, 124467)}
+2019-11-20 19:28:04 [scrapy] INFO: Spider closed (finished)

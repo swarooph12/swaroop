@@ -1,0 +1,109 @@
+2019-11-21 15:14:56 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/robots.txt> (referer: None)
+2019-11-21 15:15:00 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1> (referer: None)
+2019-11-21 15:15:04 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=2> (referer: None)
+2019-11-21 15:15:04 [scrapy] DEBUG: Filtered duplicate request: <GET https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1&sort=bestselling> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2019-11-21 15:15:08 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-guided-sharpening-system/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 15:15:08 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-guided-sharpening-system/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Work Sharp Guided Sharpening System</b> is a '
+                'complete sharpening solution for every knife you own. It '
+                'features the innovative Pivot-Response System which allows '
+                'the abrasive to follow the curve of the blade, making manual '
+                'sharpening faster, easier and more precise than ever. '
+                'Sharpens curved blades, straight blades, serrations, tools, '
+                'hooks, and fine points.<br><br>The Guided Sharpening System '
+                'offers:<ul><li>1.25" x 6" coarse (320 grit) and fine (600 '
+                'grit) Diamond Sharpening Plates</li><li>17° and 20° Angle '
+                'Guides</li><li>Coarse and Fine Ceramic Hone with built-in '
+                'Angle Guides</li><li>3 sizes of ceramic rods to sharpen '
+                'serrations</li><li>Pivot-Response '
+                'technology</li><li>Removable diamond plate holder for '
+                'sharpening '
+                'tools</li></ul><b>Features:</b><ul><li><b>Model:</b> '
+                'WSGSS</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li>1.25" x 6" coarse (320 grit) and fine (600 grit) Diamond '
+             'Sharpening Plates</li><li>17° and 20° Angle '
+             'Guides</li><li>Coarse and Fine Ceramic Hone with built-in Angle '
+             'Guides</li><li>3 sizes of ceramic rods to sharpen '
+             'serrations</li><li>Pivot-Response technology</li><li>Removable '
+             'diamond plate holder for sharpening tools</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/335915/73563/apizjjzvn__93519.1561049182.jpg?c=2&imbypass=on'],
+ 'Price': '$59.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335921',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp&reg; Guided Field Sharpener 221',
+ 'Rating': 'NA'}
+2019-11-21 15:15:12 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-combo-knife-sharpener/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 15:15:12 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-combo-knife-sharpener/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Combo Knife Sharpener</b> was created for '
+                'those who want a fast, easy-to-use machine that sharpens '
+                'every type of knife you own. The Combo Knife Sharpener '
+                "combines Work Sharp's power sharpening technology (flexible "
+                'abrasive belts) with our manual sharpening technology '
+                '(angle-guided ceramic honing). This combination of '
+                'technologies and features create a fast, easy, and very '
+                'effective sharpening system for every knife '
+                'owner.<br><br>Flexible Belt Technology creates a superior '
+                'convex cutting edge on your knife. This type of edge is the '
+                'choice of professionals and knife makers for its ability to '
+                'cut better and stay sharp longer than flat ground edges. The '
+                'Combo Sharpener uses a 0.5" x 10" premium 3M abrasive belt - '
+                'engineered for cool sharpening and long life. The abrasive is '
+                'designed and intended for metal grinding applications and '
+                'will sharpen any type of blade steel without overheating your '
+                'blade. The sharpener uses precise 25 degree angle guides for '
+                'both sharpening and honing. The innovative Tapered Ceramic '
+                'Rod will hone every knife you own to a razor-sharp edge, and '
+                'will sharpen most any size serration. You can now '
+                'successfully sharpen all of your serrated knives with a '
+                'single, easy to use '
+                'tool.<br><br><b>Features</b><ul><li><b>Model:</b> '
+                'WSCMB</li><li><b>Motor:</b> 120V Single '
+                'Speed</li><li><b>Power Switch:</b> On/Off</li><li><b>Duty '
+                'Cycle:</b> Light Duty</li><li><b>Abrasives Included:</b> (2) '
+                'P120 belts by 3M, Fine grit tapered ceramic '
+                'rod</li><li><b>Abrasive Size:</b> 0.5" x '
+                '10"</li><li><b>Sharpening Guides:</b> Fixed 25 degree '
+                'sharpening and honing</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model:</b> WSCMB</li><li><b>Motor:</b> 120V Single '
+             'Speed</li><li><b>Power Switch:</b> On/Off</li><li><b>Duty '
+             'Cycle:</b> Light Duty</li><li><b>Abrasives Included:</b> (2) '
+             'P120 belts by 3M, Fine grit tapered ceramic '
+             'rod</li><li><b>Abrasive Size:</b> 0.5" x '
+             '10"</li><li><b>Sharpening Guides:</b> Fixed 25 degree sharpening '
+             'and honing</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/335938/73586/api8edcrv__72663.1561049197.jpg?c=2&imbypass=on'],
+ 'Price': '$59.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335921',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp&reg; Guided Field Sharpener 221',
+ 'Rating': 'NA'}
+2019-11-21 15:15:15 [scrapy] DEBUG: Crawled (200) <GET https://www.greentophuntfish.com/work-sharp-assorted-belt-kit-ken-onion-edition/> (referer: https://www.greentophuntfish.com/hunting/knives-tools/knife-sharpeners/?page=1)
+2019-11-21 15:15:15 [scrapy] DEBUG: Scraped from <200 https://www.greentophuntfish.com/work-sharp-assorted-belt-kit-ken-onion-edition/>
+{'Description': '<div class="tab-content is-active" id="tab-description">\n'
+                '        The <b>Work Sharp Assorted Belt Kit - Ken Onion '
+                'Edition</b> are for use with the Ken Onion Sharpening '
+                'Cassette (WSKTS-KO). Includes 1 of each belt; P120 Extra '
+                'Course Grit (3/4" x 12"), X65 Coarse Grit (P220 equivalent, '
+                '3/4" x 12"), X22 Medium Grit (P1000 equivalent, 3/4" x 12"), '
+                'X4 Fine Grit (P3000 equivalent, 3/4" x 12"), and 6000 Extra '
+                'Fine Grit (1/2" x '
+                '12").<br><br><b>Features:</b><ul><li><b>Model:</b> '
+                'WSSAKO81113</li></ul>\n'
+                '        <!-- snippet location product_description -->\n'
+                '    </div>',
+ 'Features': '<ul><li><b>Model:</b> WSSAKO81113</li></ul>',
+ 'Image_urls': ['https://cdn11.bigcommerce.com/s-2cqhy8s7s9/images/stencil/1280x1280/products/328709/84655/apily8xa8__26447.1561064250.jpg?c=2&imbypass=on'],
+ 'Price': '$17.99',
+ 'Product_Brand': 'Work Sharp',
+ 'Product_ID': '335938',
+ 'Product_Model': 'NA',
+ 'Product_Name': 'Work Sharp Combo Knife Sharpener',
+ 'Rating': 'NA'}
